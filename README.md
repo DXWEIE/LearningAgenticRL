@@ -18,3 +18,4 @@ Learning AgenticRL Step by Step with ms-swift!
 
 ## Step 5
 - Try AgenticRL!
+- In /experiments, now have 2 RL experiments: (1) Deep Search Agent with Qwen3-4b (search+visit); (2) Travel Planning Agent with Qwen3-4b (6 tools)
